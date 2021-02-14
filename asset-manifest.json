@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Week-4-Number-2-ReactJS-App/static/css/main.df25e0ba.chunk.css",
+    "main.js": "/Week-4-Number-2-ReactJS-App/static/js/main.704847c0.chunk.js",
+    "main.js.map": "/Week-4-Number-2-ReactJS-App/static/js/main.704847c0.chunk.js.map",
+    "runtime-main.js": "/Week-4-Number-2-ReactJS-App/static/js/runtime-main.dc4aa8c9.js",
+    "runtime-main.js.map": "/Week-4-Number-2-ReactJS-App/static/js/runtime-main.dc4aa8c9.js.map",
+    "static/js/2.9e86b4b6.chunk.js": "/Week-4-Number-2-ReactJS-App/static/js/2.9e86b4b6.chunk.js",
+    "static/js/2.9e86b4b6.chunk.js.map": "/Week-4-Number-2-ReactJS-App/static/js/2.9e86b4b6.chunk.js.map",
+    "index.html": "/Week-4-Number-2-ReactJS-App/index.html",
+    "static/css/main.df25e0ba.chunk.css.map": "/Week-4-Number-2-ReactJS-App/static/css/main.df25e0ba.chunk.css.map",
+    "static/js/2.9e86b4b6.chunk.js.LICENSE.txt": "/Week-4-Number-2-ReactJS-App/static/js/2.9e86b4b6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.dc4aa8c9.js",
+    "static/js/2.9e86b4b6.chunk.js",
+    "static/css/main.df25e0ba.chunk.css",
+    "static/js/main.704847c0.chunk.js"
+  ]
+}
